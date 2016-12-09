@@ -1,0 +1,14 @@
+{
+  "name": "ask-my-wife",
+  "version": "1.0.0",
+  "description": "Texts my wife stuff",
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Adam Veldhousen",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "twilio": "^2.11.1"
+  }
+}

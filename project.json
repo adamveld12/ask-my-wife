@@ -1,0 +1,14 @@
+{
+  "name": "ask-my-wife",
+  "description": "Alexa skill to text my wife",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::368331839432:role/my-wife_lambda_function",
+  "environment": {
+    "APP_ID": "",
+    "T_SID": "",
+    "T_TOKEN": "",
+    "T_FROM_NO": "",
+    "T_DEST_NO": ""
+  }
+}
